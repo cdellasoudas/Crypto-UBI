@@ -2,7 +2,7 @@
 A Basic Income Cryptocurrency project
 Crypto UBI roadmap
 
-The core idea of this project is to initiate a transition to a Basic Income based economy through introducing an initial injection of value assets in the form of a wide scope cryptocurrency coins mass distribution and subsequently developing this into an economic ecosystem where value flows are recycled from top to bottom through basic income delivery. The system will allow for countercyclical monetary base management operations, optimaly delivered through algorithmic functions embeded in the code.
+The core idea of this project is to initiate a transition to a Basic Income based economy through introducing an initial injection of value assets in the form of a wide scope cryptocurrency coins mass distribution and subsequently developing this into an economic ecosystem where value flows are recycled from top to bottom through Basic Income transfers. The system will allow for countercyclical monetary base management and economic policy setting operations, optimaly delivered through algorithmic functions embeded in the code.
 
 Steps
 
